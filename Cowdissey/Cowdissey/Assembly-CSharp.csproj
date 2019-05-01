@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\loadmap.cs" />
+     <Compile Include="Assets\morgan.cs" />
      <Compile Include="Assets\OpenNewGame.cs" />
      <Compile Include="Assets\Scripts 1\LoadceneOnClick.cs" />
      <Compile Include="Assets\Scripts 1\QuitOnClick.cs" />
