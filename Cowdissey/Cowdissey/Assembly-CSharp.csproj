@@ -58,6 +58,7 @@
      <Compile Include="Assets\OpenNewGame.cs" />
      <Compile Include="Assets\Scripts 1\LoadceneOnClick.cs" />
      <Compile Include="Assets\Scripts 1\QuitOnClick.cs" />
+     <Compile Include="Assets\Scripts 1\upgrade.cs" />
      <Compile Include="Assets\Scripts\ActiveStateToggler.cs" />
      <Compile Include="Assets\Scripts\ApplicationManager.cs" />
      <Compile Include="Assets\Scripts\ChangeColor.cs" />
@@ -69,6 +70,8 @@
      <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
      <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\Scripts\TiltWindow.cs" />
+     <Compile Include="Assets\upgradebusiness.cs" />
+     <Compile Include="Assets\upgradelabo.cs" />
      <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
      <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
      <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
